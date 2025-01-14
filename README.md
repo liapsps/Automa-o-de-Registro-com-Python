@@ -71,4 +71,11 @@ pip install pyautogui pandas openpyxl
 
 ## Contribuição  
 
-Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias ou correções.  
+Contribuições são bem-vindas! Sinta-se à vontade para abrir issues ou pull requests com melhorias ou correções.
+
+## Contato
+
+Caso tenha dúvidas ou sugestões, entre em contato:
+
+- **E-mail**: lialilinbox@gmail.com
+- **GitHub**: https://github.com/liapsps/
